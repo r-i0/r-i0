@@ -1,7 +1,10 @@
 ### Hi there 👋
 ![](https://badge42.herokuapp.com/api/stats/rsudo?cursus=42cursus)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=risudo&layout=compact)](https://github.com/risudo/github-readme-stats)
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risudo&layout=compact&show_icons=true&theme=gruvbox" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=risudo&theme=gruvbox&show_icons=ture" />
+</p>
 
 <!--
 **r-i0/r-i0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
