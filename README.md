@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://badge42.herokuapp.com/api/stats/rsudo?cursus=42cursus)
+[![rsudo's 42 stats](https://badge42.vercel.app/api/v2/stats/cl0z11o4k000609jnua883z09?cursusId=50)](https://github.com/JaeSeoKim/badge42)
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risudo&layout=compact&show_icons=true&theme=gruvbox" />
