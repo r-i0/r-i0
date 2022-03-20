@@ -1,8 +1,5 @@
 ### Hi there 👋
-<a herf="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/stats/cl0z11o4k000609jnua883z09?cursusId=21" width="500px" alt="rsudo's 42 stats" /></a>
-
-
-  <img alt="github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=risudo&theme=tokyonight&show_icons=ture" />
+<a herf="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/stats/cl0z11o4k000609jnua883z09?cursusId=21" height="170px" alt="rsudo's 42 stats" /></a> <img alt="github stats" height="170px" src="https://github-readme-stats.vercel.app/api?username=risudo&theme=tokyonight&show_icons=ture" />
 
 
 <!--
