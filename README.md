@@ -1,13 +1,14 @@
 ### Hi there 👋
-[![rsudo's 42 stats](https://badge42.vercel.app/api/v2/stats/cl0z11o4k000609jnua883z09?cursusId=50)](https://github.com/JaeSeoKim/badge42)
+<a herf="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/stats/cl0z11o4k000609jnua883z09?cursusId=50" width="500px" alt="rsudo's 42 stats" /></a>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risudo&layout=compact&show_icons=true&theme=gruvbox" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=risudo&theme=gruvbox&show_icons=ture" />
-</p>
+
+  <img alt="github stats" width="500px" src="https://github-readme-stats.vercel.app/api?username=risudo&theme=gruvbox&show_icons=ture" />
+
 
 <!--
 **r-i0/r-i0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+  <img alt="Top Langs" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=risudo&layout=compact&show_icons=true&theme=gruvbox" />
 
 Here are some ideas to get you started:
 
